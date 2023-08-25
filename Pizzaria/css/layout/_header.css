@@ -20,6 +20,15 @@ nav {
     grid-row-start: 3;
 }
 
+.titulo_principal{
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    color: #b96434;
+    text-align: center;
+    margin: 0;
+}
+
 .div_arredondada {
     position: absolute;
     top:35%;
