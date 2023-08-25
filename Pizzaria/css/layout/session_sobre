@@ -1,0 +1,27 @@
+/* Estilizando a seção Sobre Nós */
+.about-section {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.about-content {
+    flex: 1;
+    padding-right: 50px;
+}
+
+.about-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.about-content p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.about-image img {
+    max-width: 50%;
+    height: auto;
+}
